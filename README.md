@@ -6,17 +6,6 @@ Each round, a new color is added to the sequence, and the player must remember a
 
 ---
 
-## 📂 Project Structure
-
-Simon_Game/
-│── simon.html # Main HTML file (game layout & UI)
-│── simon.css # CSS styling (buttons, colors, animations)
-│── simon.js # JavaScript logic (game functionality)
-
-
-
----
-
 ## 🚀 Features
 
 - 🟡🔴🟢🟣 **Four colored buttons** (Yellow, Red, Green, Purple).  
@@ -44,6 +33,11 @@ Simon_Game/
 4. Click the buttons in the **same order**.  
 5. If you succeed, the game goes to the next level with an **extra color**.  
 6. If you fail, the game ends and shows **"Game Over"**.  
-7. Try to beat your **High Score**! 🎉  
+7. Try to beat your **High Score**!  
 
 ---
+## ⚡ How to Run Locally
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Rohit-TecH306/Simon-Game.git
